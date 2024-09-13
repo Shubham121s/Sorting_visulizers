@@ -1,4 +1,4 @@
-Certainly! Here's the updated README file for the "Sorting Visualizers" project without the license section:
+
 
 ---
 
